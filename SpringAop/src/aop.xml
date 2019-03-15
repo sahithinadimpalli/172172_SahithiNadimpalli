@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+  http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+  <bean name="circle" class="com.cg.Model.Circle">
+  <property name="name" value="circle name"/>
+  
+  </bean>
+ <bean name="triangle" class="com.cg.Model.Triangle">
+ <property name="name" value="triangle name"/>
+ </bean>
+ <bean name="ShapeService" class="com.cg.Aop.service.ShapeService" autowire="byName" />
+</beans>
