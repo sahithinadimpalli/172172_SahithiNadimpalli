@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/RefLibrary"/>
+	<classpathentry kind="lib" path="C:/Users/sanadimp/Downloads/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sanadimp/Downloads/mysql-connector-java-5.1.43.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sanadimp/Downloads/org.springframework.jdbc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sanadimp/Downloads/org.springframework.transaction-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
